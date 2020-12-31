@@ -1,2 +1,10 @@
-# React-redux-trello-clone-frontend
-The repo contains the source code for react redux based trello clone with features like drag and drop.
+To setup and start the project:
+
+// clone the project on your local
+git clone the repo
+
+// To install the dependencies
+npm i
+
+// To run the app on node server
+npm start
